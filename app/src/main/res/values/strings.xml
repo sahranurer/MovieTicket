@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MovieTicket</string>
+    <string name="baslik">Black Widow</string>
+    <string name="baslikHakkinda">"In Marvel Studios' action-packed spy thriller “Black Widow,” Natasha Romanoff aka Black Widow confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises."</string>
+    <string name="chipZaman">1 hour 45 min</string>
+    <string name="chipHakkinda">Action/Adventure</string>
+    <string name="chipPuanlama"> 6.8 /10 </string>
+    <string name="buttonText">BOOK MY TİCKETS</string>
+
+</resources>
